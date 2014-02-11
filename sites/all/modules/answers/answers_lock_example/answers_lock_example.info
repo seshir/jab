@@ -1,0 +1,13 @@
+name = "Answers Lock Example"
+description = "Demonstrate the programming API for using the question lock functionality"
+core = "7.x"
+package = "Answers"
+php = "5.2.4"
+dependencies[] = "answers"
+
+; Information added by  packaging script on 2013-11-17
+version = "7.x-4.0-alpha1"
+core = "7.x"
+project = "answers"
+datestamp = "1384708705"
+

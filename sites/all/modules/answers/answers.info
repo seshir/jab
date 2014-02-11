@@ -1,0 +1,18 @@
+name = Answers
+description = Question and answer service
+configure = admin/config/content/answers
+dependencies[] = views
+dependencies[] = entityreference
+dependencies[] = php
+package = Answers
+core = 7.x
+
+stylesheets[all][] = css/answers.css
+scripts[] = js/answers.js
+
+; Information added by  packaging script on 2013-11-17
+version = "7.x-4.0-alpha1"
+core = "7.x"
+project = "answers"
+datestamp = "1384708705"
+
